@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {},
+  "extends": "expo/tsconfig.base",
+  "strict": true,
+    "watch":true,
+    "lib":["dom","es2017"]
+}
